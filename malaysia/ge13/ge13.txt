@@ -1,0 +1,412 @@
+# Perlis
+P001    Padang Besar    Zahidi Zainul Abidin (BN-UMNO)   21,473    59.6%   Azamhari Mohamood (PR-PAS)    14,047    39.0%   7,426   Azmi Khalid (BN-UMNO)   41,974    86%    9%    0%   4%   0%   0%   36,051   85.9%   531    1.3%
+P002    Kangar      Shaharuddin Ismail (BN-UMNO)   23,343   53.9%   Baharuddin Ahmad (PR-PAS)    19,306     44.6%   4,037   Mohd Radzi Sheikh Ahmad (BN-UMNO)   51,207   81%    16%   2%   0%   0%   0%   43,316   84.6%   667    1.5%
+P003    Arau    Shahidan Kassim (BN-UMNO)   19,376    50.6%   Haron Din (PR-PAS)    18,005    47.0%   1,371   Ismail Kassim (BN-UMNO)   43,876    88%    8%    0%   3%   0%   0%    38,312      87.3%   525     1.2%
+;Zainudin Yom (IND)   406   1.1%
+
+# Kedah
+P004    Langkawi    Nawawi Ahmad (BN-UMNO)   21,407    67.2%   Ahmad Abdullah (PR-PKR)    9,546   29.9%   11,861   Abu Bakar Taib (BN-UMNO)   37,536   91%   6%   2%    0%    0%   0%   31,877   84.9%   744   2.0%
+;Marina Hussein (IND)   180  0.6%
+P005    Jerlun   Othman Aziz (BN-UMNO)   24,161   52.8%   Ismail Salleh (PR-PAS)    20,891   45.6%   3,270   Mukhriz Mahathir (BN-UMNO)   52,383   91%   8%    0%   2%   0%   0%   45,782   87.4%   730   1.4%
+P006    Kubang Pasu    Mohd Johari Baharum (BN-UMNO)    33,334   58.4%   Mohd Jamal Nasir (PR-PAS)    22,890   40.1%   10,444   Mohd Johari Baharum (BN-UMNO)   65,550   86%   9%   4%   0%   0%   0%   57,058   87.0%   834   1.3%
+P007    Padang Terap    Mahdzir Khalid (BN-UMNO)   20,654   54.6%   Mohd Nasir Zakaria (PR-PAS)    16,212  42.9%   4,442   Mohd Nasir Zakaria (PR-PAS)    41,960   92%   1%    0%   6%   0%   0%   37,800   90.1%   691   1.6%
+;Muhamad Bazli Abdullah (IND)   243   0.6%
+P008    Pokok Sena    Mahfuz Omar (PR-PAS)    36,198   52.2%   Shahlan Ismail (BN-UMNO)   32,263   46.5%   3,935   Mahfuz Omar (PR-PAS)    80,714   80%   18%   2%    0%   0%   0%   69,309   85.9%   848   1.1%
+P009    Alor Setar    Gooi Hsiao Leung (PR-PKR)    27,364   47.4%   Chor Chee Heung (BN-MCA)   25,491   44.2%   1,873   Chor Chee Heung (BN-MCA)    69,009   61%   34%   5%   0%   0%   0%   57,712   83.6%   1,070   1.6%
+;Abdul Fisol Mohd Isa (BERJASA)    3,530   6.1%
+;Jawahar Raja Abdul Wahid (MUPP)   257   0.4%
+P010    Kuala Kedah   Azman Ismail (PR-PKR)    42,870   52.3%   Zaki Zamani Abd Rashid (BN-UMNO)   37,923   46.2%   4,947   Ahmad Kassim (PR-PKR)    95,328   78%   21%   1%    0%   0%   0%   82,005  86.0%   1,212    1.3%
+P011    Pendang    Othman Abdul (BN-UMNO)   32,165  51.5%   Mohamad Sabu (PR-PAS)   29,527   47.3%   2,638   Mohd Hayati Othman (PR-PAS)   70,135   88%   6%   0%    6%   0%     0%    62,451   89.0%   759   1.1%
+P012    Jerai   Jamil Khir Baharom (BN-UMNO)   32,429   50.2%   Mohd Firdaus Jaafar (PR-PAS)    31,233   48.3%   1,196   Mohd Firdaus Jaafar (PR-PAS)    74,410   79%   15%   6%   0%   0%   0%   64,614   86.8%   952   1.3%
+P013    Sik    Mansor Abd Rahman (BN-UMNO)   22,084   52.6%   Che Uda Che Nik (PR-PAS)   19,277   45.9%   2,807   Che Uda Che Nik (PR-PAS)    46,786   93%    2%    0%   5%    0%   0%   41,992   89.8%   631   1.3%
+P014    Merbok  Ismail Daut (BN-UMNO)   38,538  51.9%   Nor Azrina Surip (PR-PKR)    34,416  46.3%   4,122   Rashid Din (PR-PKR)    85,908   65%  17%  18%   0%   0%   0%   74,294   86.5%   1,340   1.5%
+P015    Sungai Petani   Johari Abdul (PR-PKR)    44,194   54.7%   Syamsyul Anuar Che Mey @ Ismail (BN-UMNO)   34,646   42.9%   9,548   Johari Abdul (PR-PKR)   93,176   59%   29%  12%   0%   0%   0%   80,771  86.7%   959   1.0%
+;Ong Wei Sin (IND)   772  1.0%
+;Suhaimi Hashim (KITA)   200  0.2%
+P016    Baling   Abdul Azeez Abdul Rahim (BN-UMNO)   43,504   52.5%   Najmi Ahmad (PR-PAS)    38,319   46.2%   5,185   Taib Azamudden Md Taib (PR-PAS)    93,168   89%   5%   5%   0%   0%   0%   82,914   89.0%   1,091   1.2%
+P017    Padang Serai    Surendran Nagarajan (PR-PKR)    34,151   53.0%   Heng Seai Kie (BN-MCA)    25,714   39.9%   8,437   Gobalakrishnan Nagapan (IND)   74,095   56%   23%   21%   0%   0%   0%   64,387  86.9%   1,223   1.7%
+;Hamidi Abu Hassan (BERJASA)   2,630   4.1%
+;Gobalakrishnan Nagapan (IND)   390   0.6%
+;Othman Wawi (IND)   279   0.4%
+P018    Kulim-Bandar Baharu    Abdul Aziz Sheikh Fadzir (BN-UMNO)   26,782   51.0%   Saifuddin Nasution Ismail (PR-PKR)    24,911  47.4%   1,871   Zulkifli Nordin (IND)   60,910   68%   19%   13%   0%   0%   0%   52,532   86.2%   839   1.4%
+
+# Kelantan
+P019    Tumpat      Kamaruddin Jaafar (PR-PAS)    46,191    55.8%   Mansor Salleh (BN-UMNO)   35,487   42.9%   10,704    Kamaruddin Jaafar (PR-PAS)    98,632    93%    3%    0%   4%    0%    0%  82,764    83.9%    1,086    1.1%
+P020    Pengkalan    Chepa Izani Husin (PR-PAS)    34,617    63.2%    Dali Husin (BN-UMNO)    19,497    35.6%    15,120    Abdul Halim Abdul Rahman (PR-PAS)    64,409     98%    2%   0%    0%    0%   0%    54,797    85.1%     683    1.1%
+P021    Kota Bharu    Takiyuddin Hassan (PR-PAS)    40,620    61.5%   Mohamad Fatmi Che Salleh (BN-UMNO)   24,650    37.3%   15,970     Wan Abdul Rahim Wan Abdullah (PR-PAS)    81,268     83%     16%     1%    0%   0%   0%   66,084    81.3%   666    0.8%
+;Mohd Zakiman Abu Bakar (IND)    148     0.2%
+P022    Pasir Mas    Nik Mohamad Abduh Nik Abdul Aziz (PR-PAS)    33,431    55.8%   Ibrahim Ali (IND)   25,384   42.4%   8,047   Ibrahim Ali (IND)   71,965     97%     3%    0%    0%    0%   0%   59,930    83.3%   1,115   1.5%
+P023    Rantau Panjang      Siti Zailah Mohd Yusoff (PR-PAS)    23,767      56.9%    Ghazali Ismail (BN-UMNO)   17,405    41.6%   6,362   Siti Zailah Mohd Yusoff (PR-PAS)    52,903    98%     1%    0%   1%   0%    0%    41,804     79.0%    632    1.2%
+P024    Kubang Kerian     Ahmad Baihaki Atiqullah (PR-PAS)    35,510    64.7%   Anuar Safian (BN-UMNO)   18,769     34.2%   16,741      Salahuddin Ayub (PR-PAS)    65,390      98%     2%    0%     0%    0%    0%   54,884    83.9%    605   0.9%
+P025    Bachok    Ahmad Marzuk Shaary (PR-PAS)    35,419    49.5%   Awang Adek Hussin (BN-UMNO)   35,218   49.2%   201   Nasharudin Mat Isa (PR-PAS)    81,566    99%     1%   0%   0%   0%   0%   71,584    87.8%    947    1.2%
+P026    Ketereh     Annuar Musa (BN-UMNO)     26,912    50.1%   Abdul Aziz Abdul Kadir (PR-PKR)    25,938     48.3%   974   Abdul Aziz Abdul Kadir (PR-PKR)    62,217    97%    2%     0%   1%   0%   0%  53,726    86.4%    876     1.4%
+P027    Tanah Merah     Ikmal Hisham Abdul Aziz (BN-UMNO)   26,505   53.1%   Nik Mahmood Nik Hassan (PR-PKR)    22,278    44.7%     4,227    Amran Abdul Ghani (PR-PKR)    58,237    95%    4%     1%    0%    0%    0%     49,872     85.6%      876    1.5%
+;Ahmad Fizal Che Harun (IND)    213   0.4%
+P028    Pasir Puteh     Nik Mazian Nik Mohamad (PR-PAS)    33,579    50.8%   Tuan Mustaffa Tuan Mat (BN-UMNO)    31,691    48.0%   1,888   Muhammad Husin (PR-PAS)    76,259    98%     1%   0%   1%    0%   0%   66,040    86.6%    770    1.0%
+P029    Machang     Ahmad Jazlan Yaakub (BN-UMNO)   25,660    50.1%    Wan Zawawi Wan Ismail (PR-PKR)    24,855    48.5%   805   Saifuddin Nasution Ismail (PR-PKR)    59,226   96%     4%    0%    0%   0%    0%   51,244    86.5%    729     1.2%
+P030    Jeli    Mustapa Mohamed (BN-UMNO)   21,345     56.5%    Mohd Apandi Mohamad (PR-PAS)    16,009    42.4%    5,336    Mustapa Mohamed (BN-UMNO)   43,224     99%     0%    0%   1%   0%   0%   37,778     87.0%    424    1.0%
+P031    Kuala Krai      Mohd Hatta Ramli (PR-PAS)    27,919     51.2%   Tuan Aziz Tuan Hamat (BN-UMNO)    25,876   47.5%   2,043   Mohd Hatta Ramli (PR-PAS)    63,101     94%    4%    1%   0%   0%   0%  54,515    86.4%   720    1.1%
+P032    Gua Musang      Tengku Razaleigh Hamzah (BN-UMNO)    21,367   61.0%     Wan Abdul Rahim Wan Abdullah (PR-PAS)    12,954     37.0%   8,413   Tengku Razaleigh Hamzah (BN-UMNO)     40,176    80%    7%    0%   12%    0%    0%    35,033    87.2%    712   1.8%
+
+# Terengganu
+P033    Besut   Idris Jusoh (BN-UMNO)    35,232    56.1%   Riduan Mohamad Nor (PR-PAS)    26,890    42.8%   8,342   Abdullah Md Zin (BN-UMNO)    72,566    98%    2%    0%    0%   0%    0%    62,763     86.5%    641    0.9%
+P034    Setiu    Che Mohamad Zulkifly Jusoh (BN-UMNO)   33,198    56.1%   Omar Sidek (PR-PAS)    25,255    42.7%   7,943   Mohd Jidin Shafee (BN-UMNO)   67,280    100%    0%    0%    0%    0%     0%   59,138    87.9%    685   1.0%
+P035    Kuala Nerus     Mohd Khairuddin Aman Razali (PR-PAS)    33,861   49.9%   Mohd Nasir Ibrahim Fikri (BN-UMNO)   33,251   49.0%    610      Mohd Nasir Ibrahim Fikri (BN-UMNO)   76,238     99%     1%    0%    0%    0%    0%    67,884      89.0%   772     1.0%
+P036    Kuala Terengganu    Raja Kamarul Bahrin Shah (PR-PAS)    45,828    56.0%   Mohd Zubir Embong (BN-UMNO)   35,043   42.8%   10,785    Mohd Abdul Wahid Endut (PR-PAS)    94,406    89%   10%   1%    0%    0%    0%    81,898    86.8%    845   0.9%
+;Maimun Yusuf (IND)    182   0.2%
+P037    Marang    Abdul Hadi Awang (PR-PAS)    42,984    52.6%   Yahya Khatib Mohamad (BN-UMNO)   37,860    46.4%    5,124   Abdul Hadi Awang (PR-PAS)    90,795    98%    2%    0%    0%    0%    0%   81,649    89.9%   805  0.9%
+P038    Hulu Terengganu     Jailani Johari (BN-UMNO)   31,940   56.5%   Kamaruzaman Abdullah (PR-PAS)    23,727   42.0%   8,213   Mohd Nor Othman (BN-UMNO)   63,543    99%     1%     0%    0%    0%    0%    56,490    88.9%    823   1.3%
+P039    Dungun      Wan Hassan Mohd Ramli (PR-PAS)    35,348    51.9%   Rosli Mat Hassan (BN-UMNO)   31,406    46.2%   3,942   Matulidi Jusoh (BN-UMNO)    78,174    96%    4%    0%    0%    0%    0%    68,047    87.0%    909   1.2%
+;Mazlan Harun (IND)    384   0.6%
+P040    Kemaman     Ahmad Shabery Cheek (BN-UMNO)   45,525   56.9%   Kamarudin Chik (PR-PKR)    33,219   41.5%   12,306   Ahmad Shabery Cheek (BN-UMNO)   91,942   93%     6%    1%   0%   0%   0%   79,971    87.0%   1,227   1.3%
+
+# Penang
+P041    Kepala Batas    Reezal Merican Naina Merican (BN-UMNO)    25,128    53.8%    Afnan Hamimi Taib Azamudden (PR-PAS)    20,952     44.9%     4,176    Abdullah Ahmad Badawi (BN-UMNO)   51,635     76%     19%     4%     0%    0%    0%     46,665      90.4%   585     1.1%
+P042    Tasek Gelugor   Shabudin Yahaya (BN-UMNO)   24,393    50.8%   Abdul Rahman Maidin (PR-PAS)    21,351    44.5%   3,042   Nor Mohamed Yakcop (BN-UMNO)   54,042   78%    15%    7%    0%    0%   0%   48,009    88.8%   675     1.2%
+;Mohd Shariff Omar (IND)    1,590   3.3%
+P043    Bagan   Lim Guan Eng (PR-DAP)    46,466     77.8%   Chua Teik Siang (BN-MCA)    12,307      20.6%   34,159      Lim Guan Eng (PR-DAP)    68,503     15%     70%     15%     0%   0%   0%    59,735    87.2%    634   0.9%
+;Lim Kim Chu (PCM)    328    0.5%
+P044    Permatang Pauh    Anwar Ibrahim (PR-PKR)    37,090      58.6%    Mazlan Ismail (BN-UMNO)   25,369    40.1%   11,721   Anwar Ibrahim (PR-PKR)    71,699    70%   23%   6%    0%   0%    0%    63,332   88.3%    672   0.9%
+;Abdullah Zawawi Samsudin (IND)    201   0.3%
+P045    Bukit Mertajam      Steven Sim Chee Kiong (PR-DAP)    55,877   80.5%   Gui Guat Lye (BN-MCA)    12,814   18.5%   43,063    Chong Eng (PR-DAP)    78,996   19%   71%    10%    0%   0%   0%   69,403  87.9%   712     0.9%
+P046    Batu Kawan    Kasthuriraani Patto (PR-DAP)    36,636    73.1%   Gobalakrishnan Narayanasamy (BN-Gerakan)    10,674    21.3%   25,962    Ramasamy Palanisamy (PR-DAP)    57,500      21%     56%     23%    0%    0%   0%    50,139    87.2%    723    1.3%
+;Huan Cheng Guan (PCM)   1,801   3.6%
+;Mohan Apparoo (IND)   305      0.6%
+P047    Nibong Tebal    Mansor Othman (PR-PKR)    30,003   57.1%   Zainal Abidin Osman (BN-UMNO)   21,405    40.7%   8,598   Tan Tee Beng (IND)   59,345    45%   37%     18%    0%   0%    0%   52,538    88.5%    833   1.4%
+;Teng Kok Pheng (IND)   297     0.6%
+P048    Bukit Bendera   Zairil Khir Johari (PR-DAP)    45,591    77.2%   Teh Leong Meng (BN-Gerakan)    12,813    21.7%   32,778    Liew Chin Tong (PR-DAP)    71,085      14%     74%     11%   0%   0%   0%    59,019    83.0%   615     0.9%
+P049    Tanjong     Ng Wei Aik (PR-DAP)    35,510    82.8%   Ng Song Kheng (BN-Gerakan)    6,865   16.0%   28,645  Chow Kon Yeow (PR-DAP)    51,487    5%    86%   9%    0%    0%    0%      42,870    83.3%    495   1.0%
+P050    Jelutong    Jeff Ooi Chuan Aun (PR-DAP)    43,211   70.3%   Ng Fook On (BN-Gerakan)    17,461   28.4%    25,750    Jeff Ooi Chuan Aun (PR-DAP)    71,247    22%     67%     11%    0%    0%    0%    61,441     86.2%   769   1.1%
+P051    Bukit Gelugor   Karpal Singh Ram Singh (PR-DAP)    56,303    80.1%   Teh Beng Yeam (BN-MCA)    13,597    19.3%   42,706    Karpal Singh Ram Singh (PR-DAP)    81,897    14%   75%   10%    0%   0%   0%   70,554     86.1%   654    0.8%
+P052    Bayan Baru      Sim Tze Tzin (PR-PKR)    43,558     63.4%   Tang Heap Seng (BN-MCA)    24,251   35.3%   19,307      Zahrain Mohamed Hashim (IND)   79,155   39%     49%     11%    0%   0%    0%    68,659      86.7%       850     1.1%
+P053    Balik Pulau     Hilmi Yahaya (BN-UMNO)   22,318    51.1%   Muhammad Bakhtiar Wan Chik (PR-PKR)    20,779    47.5%   1,539   Mohd Yusmadi Mohd Yusoff (PR-PKR)    49,641  64%    32%     4%    0%    0%    0%    43,709    88.1%    612   1.2%
+
+# Perak
+P054    Gerik   Hasbullah Osman (BN-UMNO)   16,415    60.6%   Norhayati Kasim (PR-PAS)    10,199    37.6%   6,216   Tan Lian Hoe (BN-Gerakan)    32,725    68%   16%   0%   13%   0%    0%    27,108    82.8%    494     1.5%
+P055    Lenggong    Shamsul Anuar Nasarah (BN-UMNO)   13,639   58.1%   Razman Zakaria (PR-PAS)    9,478    40.4%   4,161   Shamsul Anuar Nasarah (BN-UMNO)   27,950    82%    14%    0%   2%    0%   0%   23,485   84.0%   368   1.3%
+P056    Larut   Hamzah Zainudin (BN-UMNO)   22,184   55.6%   Mohd Fauzi Sa'ari (PR-PAS)    16,888   42.3%   5,296   Hamzah Zainudin (BN-UMNO)   46,577   89%    5%     6%    0%    0%    0%    39,929    85.7%   579   1.2%
+;Raveendran M. Vallikana (IND)   278    0.7%
+P057    Parit Buntar    Mujahid Yusof Rawa (PR-PAS)    26,015    58.9%    Mua'amar Ghadafi Jamal Jamaludin (BN-UMNO)   17,539    39.7%    8,476   Mujahid Yusof Rawa (PR-PAS)    51,422    68%    27%   5%    0%    0%   0%    44,172    85.9%   618     1.2%
+P058    Bagan Serai     Noor Azmi Ghazali (BN-UMNO)   23,014   49.7%   Mohd Nor Monutty (PR-PKR)    21,874   47.2%   1,140   Mohsin Fadzli Samsuri (IND)   54,792    76%    14%    10%    0%    0%   0%   46,313    84.5%    1,096   2.0%
+;Abdul Latif Masud (IND)    329      0.7%
+P059    Bukit Gantang   Idris Ahmad (PR-PAS)    30,563   50.2%   Ismail Saffian (BN-UMNO)   29,577   48.6%   986   Mohammad Nizar Jamaluddin (PR-PAS)    71,257   65%   25%    10%    0%   0%   0%   60,888    85.4%   748    1.0%
+P060    Taiping     Nga Kor Ming (PR-DAP)    37,275    58.5%   Tan Lian Hoe (BN-Gerakan)    25,530    40.0%   11,745    Nga Kor Ming (PR-DAP)    78,148      37%     48%     13%   0%   0%   0%    63,749   81.6%   944     1.2%
+P061    Padang Rengas   Mohamed Nazri Abdul Aziz (BN-UMNO)   13,005   53.8%   Meor Ahmad Isharra Ishak (PR-PKR)    10,775   44.5%   2,230   Mohamed Nazri Abdul Aziz (BN-UMNO)   28,518   76%    17%    7%    0%    0%   0%    24,190    84.8%    410   1.4%
+P062    Sungai Siput    Michael Jeyakumar Devaraj (PR-PKR)    21,593   51.9%   Devamany S. Krishnasamy (BN-MIC)    18,800   45.2%   2,793   Michael Jeyakumar Devaraj (PR-PKR)    51,596   33%     39%     21%    0%   0%   0%   41,572      80.6%   982     1.9%
+;Nagalingam Singaravelloo (IND)   197   0.5%
+P063    Tambun      Ahmad Husni Hanadzlah (BN-UMNO)   42,093    55.3%   Siti Aishah Shaik Ismail (PR-PKR)    32,768    43.1%   9,325   Ahmad Husni Hanadzlah (BN-UMNO)   89,435    64%    22%    12%    0%    0%   0%    76,057    85.0%    1,196   1.3%
+P064    Ipoh Timor  Thomas Su Keng Siong (PR-DAP)    49,086   75.5%    Kathleen Wong Mei Yin (BN-MCA)    15,086   23.2%    34,000    Lim Kit Siang (PR-DAP)    81,818   14%    80%     5%     0%    0%   0%   65,006      79.5%       834     1.0%
+P065    Ipoh Barat    Kulasegaran Murugeson (PR-DAP)    45,420    72.2%    Cheng Wei Yee (BN-MCA)    16,382    26.0%   29,038    Kulasegaran Murugeson (PR-DAP)    77,761    14%       62%     23%    0%    0%    0%     62,912   80.9%   875   1.1%
+;Kalwant Singh Sujan Singh (IND)    235      0.4%
+P066    Batu Gajah  Sivakumar Varatharaju Naidu (PR-DAP)    53,770    76.7%   Loo Thin Tuck (BN-MCA)    15,360    21.9%   38,410  Fong Po Kuan (PR-DAP)    87,587    11%   74%     15%    0%   0%   0%   70,096      80.1%   966     1.1%
+P067    Kuala Kangsar   Wan Mohammad Khair-il Anuar Wan Ahmad (BN-UMNO)   14,218   50.4%   Khalil Idham Lim Abdullah (PR-PAS)    13,136   46.6%   1,082   Rafidah Aziz (BN-UMNO)   33,540   68%   24%   7%    0%    0%    0%   28,208    84.1%    407   1.2%
+;Kamilia Ibrahim (IND)   447    1.6%
+P068    Beruas      Ngeh Koo Ham (PR-DAP)    21,939      55.5%   Chang Ko Youn (BN-Gerakan)    16,882      42.7%   5,057   Ngeh Koo Ham (PR-DAP)    49,205    33%   52%     15%    0%    0%    0%   39,508     80.3%   687     1.4%
+P069    Parit   Mohd Zaim Abu Hassan (BN-UMNO)   16,253   56.9%   Muhammad Ismi Mat Taib (PR-PAS)    11,756   41.2%   4,497   Mohd Nizar Zakaria (BN-UMNO)   33,503   93%    3%   3%   0%    0%   0%    28,541    85.2%   532   1.6%
+P070    Kampar   Ko Chung Sen (PR-DAP)    26,863   54.7%   Lee Chee Leong (BN-MCA)    21,463   43.7%   5,400   Lee Chee Leong (BN-MCA)    63,619   29%    61%    9%    0%    0%    0%   49,146   77.2%    820   1.3%
+P071    Gopeng    Lee Boon Chye (PR-PKR)    47,558    58.5%   Tan Chin Meng (BN-MCA)    32,249    39.7%   15,309   Lee Boon Chye (PR-PKR)    97,092    43%   46%   9%   0%   0%   0%    81,263    83.7%   1,456   1.5%
+P072    Tapah   Saravanan Murugan (BN-MIC)    20,670   56.1%   Vasantha Kumar Krishnan (PR-PKR)    12,743   34.6%   7,927    Saravanan Murugan (BN-MIC)    45,485   46%    28%     13%    0%    0%   0%   36,855   81.0%   1,052   2.3%
+;Shaharuzzaman Bistamam (BERJASA)   2,053   5.6%
+;Ridzuan Bani (IND)   337   0.9%
+P073    Pasir Salak     Tajuddin Abdul Rahman (BN-UMNO)    24,875    57.4%   Mustaffa Kamil Ayub (PR-PKR)    17,489    40.3%   7,386   Tajuddin Abdul Rahman (BN-UMNO)   51,498    79%    14%   4%    0%   0%   0%   43,372   84.2%   1,008   2.0%
+P074    Lumut   Mohamad Imran Abd Hamid (PR-PKR)    40,308   54.8%   Kong Cho Ha (BN-MCA)    32,140   43.7%   8,168   Kong Cho Ha (BN-MCA)    88,300   51%    35%     12%     0%   0%   0%    73,581    83.3%   1,133   1.3%
+P075    Bagan Datok     Ahmad Zahid Hamidi (BN-UMNO)   17,176   52.1%   Madhi Hasan (PR-PKR)    15,068   45.7%   2,108   Ahmad Zahid Hamidi (BN-UMNO)   39,924   55%    20%     24%    0%   0%   0%   32,960    82.6%   716     1.8%
+P076    Telok Intan     Seah Leong Peng (PR-DAP)    27,399   56.3%   Mah Siew Keong (BN-Gerakan)    20,086    41.3%   7,313   Manogaran Marimuthu (PR-DAP)    60,483   38%    42%   19%    0%    0%   0%    48,649    80.4%   885     1.5%
+;Moralingam Kannan (IND)   279   0.6%
+P077    Tanjong Malim   Ong Ka Chuan (BN-MCA)    28,225   53.0%   Tan Yee Kew (PR-PKR)    23,897   44.9%   4,328   Ong Ka Chuan (BN-MCA)    64,499   53%   27%   14%    0%   0%   0%   53,237   82.5%   1,115   1.7%
+
+# Pahang
+P078    Cameron Highlands    Palanivel K. Govindasamy (BN-MIC)    10,506    46.2%   Manogaran Marimuthu (PR-DAP)    10,044    44.2%   462   Devamany S. Krishnasamy (BN-MIC)    27,980    34%    32%   0%   21%    0%    0%   22,748    81.3%   877   3.1%
+;Mohd Shokri Mahmood (BERJASA)   912    4.0%
+;Alagu Thangarajoo (IND)   308    1.4%
+;Kisho Kumar Kathirveloo (IND)   101    0.4%
+P079    Lipis    Abdul Rahman Mohamad (BN-UMNO)   14,863    55.1%   Mohd Mahyudin Ghazal (PR-PAS)    11,394    42.2%   3,469    Mohamad Shahrum Osman (BN-UMNO)   32,324    76%   17%   6%    0%    0%    0%   26,986    83.5%    426   1.3%
+;Aishaton Abu Bakar (IND)    303    1.1%
+P080    Raub    Ariff Sabri Abdul Aziz (PR-DAP)    23,415    52.1%   Hoh Khai Mun (BN-MCA)    20,601    45.8%   2,814   Ng Yen Yen (BN-MCA)    54,214    50%    40%    6%    0%   0%   0%   44,943    82.9%   927     1.7%
+P081    Jerantut    Ahmad Nazlan Idris (BN-UMNO)   26,544   53.7%   Hamzah Jaafar (PR-PAS)    22,012   44.5%   4,532   Tengku Azlan Sultan Abu Bakar (BN-UMNO)   58,364   81%    14%     3%    0%   0%   0%   49,461    84.7%   905    1.6%
+P082    Indera Mahkota    Fauzi Abdul Rahman (PR-PKR)    30,584    56.1%   Wan Adnan Wan Mamat (BN-UMNO)   23,061    42.3%   7,523   Azan Ismail (PR-PKR)    64,219    65%    29%     6%    0%   0%   0%    54,527      84.9%    689     1.1%
+;Ponusamy Govindasamy (IND)    193   0.4%
+P083    Kuantan     Fuziah Salleh (PR-PKR)    25,834    54.1%   Mohamed Suffian Awang (BN-UMNO)   21,319    44.7%   4,515   Fuziah Salleh (PR-PKR)    56,280    63%   33%     4%    0%   0%    0%    47,723    84.8%   570    1.0%
+P084    Paya Besar      Abdul Manan Ismail (BN-UMNO)   23,747    58.4%   Murnie Hidayah Anuar (PR-PKR)    16,032    39.4%   7,715   Abdul Manan Ismail (BN-UMNO)   48,067    81%    15%     2%   0%   0%   0%    40,694    84.7%   643   1.3%
+;Zahari Mamat (IND)   272   0.7%
+P085    Pekan   Najib Razak (BN-UMNO)   51,278    75.2%   Fariz Musa (PR-PKR)    15,665    23.0%   35,613     Najib Razak (BN-UMNO)   80,260    88%    2%    0%   9%   0%   0%    68,218    85.0%   1,275   1.6%
+P086    Maran     Ismail Muttalib (BN-UMNO)   19,249    59.1%   Mujibur Rahman Ishak (PR-PAS)    12,774    39.2%   6,475   Ismail Muttalib (BN-UMNO)   38,436    90%    7%   0%   2%   0%   0%    32,595    84.8%   572    1.5%
+P087    Kuala Krau      Ismail Mohamed Said (BN-UMNO)   21,575    57.5%   Shahril Azman Abd Halim (PR-PAS)    15,370    40.9%   6,205   Ismail Mohamed Said (BN-UMNO)   43,003    90%    3%   0%   5%    0%   0%   37,548    87.3%    603   1.4%
+P088    Temerloh    Nasrudin Hassan (PR-PAS)    28,267    50.1%   Saifuddin Abdullah (BN-UMNO)   27,197    48.2%   1,070   Saifuddin Abdullah (BN-UMNO)   66,105    64%    24%     9%    0%   0%   0%    56,441     85.4%   977     1.5%
+P089    Bentong     Liow Tiong Lai (BN-MCA)    25,947   49.4%   Wong Tack (PR-DAP)    25,568   48.7%   379    Liow Tiong Lai (BN-MCA)    62,266   45%    44%     9%   0%    0%   0%    52,503      84.3%   988     1.6%
+P090    Bera    Ismail Sabri Yaakob (BN-UMNO)   21,669    50.6%   Zakaria Abdul Hamid (PR-PKR)    19,526    45.6%   2,143   Ismail Sabri Yaakob (BN-UMNO)   50,997    59%    32%    0%   5%    0%   0%   42,830    84.0%   965    1.9%
+;Mohd Wali Alang Ahamad (IND)    670     1.6%
+P091    Rompin      Jamaluddin Jarjis (BN-UMNO)   30,040   65.5%   Nuridah Mohd Salleh (PR-PAS)    14,926   32.6%   15,114    Jamaluddin Jarjis (BN-UMNO)   53,596   87%    2%   0%   9%   0%   0%    45,849      85.5%   883     1.6%
+
+# Selangor
+P092    Sabak Bernam    Mohd Fasiah Mohd Fakeh (BN-UMNO)    16,510    52.1%   Abdul Aziz Bari (PR-PKR)    14,620    46.1%   1,890   Abdul Rahman Bakri (BN-UMNO)   37,318    81%    13%     5%     0%    0%   0%    31,706    84.9%    576    1.5%
+P093    Sungai Besar    Noriah Kasnon (BN-UMNO)   18,695    49.6%   Mohamed Salleh M Husin (PR-PAS)    18,296    48.6%   399    Noriah Kasnon (BN-UMNO)   42,837    66%    31%     2%    0%    0%   0%    37,681    88.0%    690    1.6%
+P094    Hulu Selangor    Kamalanathan Panchanathan (BN-MIC)    37,403    49.9%   Khalid Jaafar (PR-PKR)    33,989    45.4%   3,414    Kamalanathan Panchanathan (BN-MIC)    85,697    56%    23%    18%    0%    0%    0%   74,947    87.4%    1,451   1.7%
+;Radzali Mokhtar (IND)   1,105   1.5%
+;Santhara Kumar (IND)   999     1.3%
+P095    Tanjong Karang      Noh Omar (BN-UMNO)   20,548    54.5%   Mohamad Rashdi Deraman (PR-PAS)    16,154    42.9%   4,394    Noh Omar (BN-UMNO)   42,333    72%   17%     10%   0%   0%   0%    37,676    89.0%     634     1.5%
+;Masrun Tamsi (IND)     340    0.9%
+P096    Kuala Selangor  Irmohizan Ibrahim (BN-UMNO)   27,500    49.6%   Dzulkefly Ahmad (PR-PAS)    27,040    48.7%   460   Dzulkefly Ahmad (PR-PAS)    62,298    64%    13%    22%    0%    0%   0%    55,474    89.0%     934     1.5%
+P097    Selayang    William Leong Jee Keen (PR-PKR)    52,343    56.7%   Donald Lim Siang Chai (BN-MCA)    34,385    37.2%   17,958    William Leong Jee Keen (PR-PKR)    105,895   45%     36%    17%     0%    0%   0%    92,315     87.2%   1,435   1.4%
+;Mohd Hazizi Ab. Rahman (BERJASA)   4,152   4.5%
+P098    Gombak      Mohamed Azmin Ali (PR-PKR)    54,827    51.4%   Rahman Ismail (BN-UMNO)   50,093    46.9%   4,734   Mohamed Azmin Ali (PR-PKR)    123,290   74%   13%     11%   0%    0%   0%   106,747     86.6%   1,353   1.1%
+;Said Nazar Abu Baker (IND)   474   0.4%
+P099    Ampang     Zuraida Kamarudin (PR-PKR)    41,969    58.8%   Rozaidah Talib (BN-UMNO)   28,691    40.2%   13,278    Zuraida Kamarudin (PR-PKR)    83,135    55%   34%     10%    0%    0%   0%   71,398    85.9%   738   0.9%
+P100    Pandan    Rafizi Ramli (PR-PKR)    48,183    65.9%   Lim Chin Yee (BN-MCA)    21,454    29.4%   26,729    Ong Tee Keat (BN-MCA)    83,857    44%    48%   7%    0%    0%   0%   73,075    87.1%   1,023   1.2%
+;Tan Yew Leng (IND)    2,415   3.3%
+P101    Hulu Langat     Che Rosli Che Mat (PR-PAS)    64,127    57.1%   Adzhaliza Mohd Nor (BN-UMNO)   46,860    41.7%   17,267    Che Rosli Che Mat (PR-PAS)    127,347   53%   34%     11%   0%   0%   0%    112,322     88.2%    1,335   1.0%
+P102    Serdang     Ong Kian Ming (PR-DAP)    79,238    67.1%   Yap Pian Hon (BN-MCA)    37,032    31.4%   42,206    Teo Nie Ching (PR-DAP)    133,139   39%   49%    11%   0%   0%   0%    118,048    88.7%   1,778   1.3%
+P103    Puchong     Gobind Singh Deo (PR-DAP)    62,938      66.7%   A. Kohilan Pillay (BN-Gerakan)    30,136      31.9%   32,802      Gobind Singh Deo (PR-DAP)    107,010     39%     44%     16%    0%   0%   0%   94,335    88.1%   1,261   1.2%
+P104    Kelana Jaya     Wong Chen (PR-PKR)    56,790    65.8%   Loh Seng Kok (BN-MCA)    27,963    32.4%    28,827    Loh Gwo Burne (PR-PKR)    101,236    38%   42%     18%    0%   0%   0%    86,287      85.2%   1,171   1.1%
+;Toh Sin Wah (IND)   363    0.4%
+P105    Petaling Jaya Selatan     Hee Loy Sian (PR-PKR)    41,062   63.0%   Sheah Kok Fah (BN-MCA)    21,846   33.5%   19,216     Hee Loy Sian (PR-PKR)    79,558   40%    42%     17%   0%    0%   0%   65,185      81.9%    830     1.0%
+;Ibrahim Khatib (IND)   1,447   2.2%
+P106    Petaling Jaya Utara     Tony Pua Kiam Wee (PR-DAP)    57,407    81.3%   Chew Hoong Ling (BN-MCA)    12,735    18.0%   44,672    Tony Pua Kiam Wee (PR-DAP)    85,401    14%   77%     7%   0%   0%   0%     70,614    82.7%   472   0.6%
+P107    Subang    Sivarasa K. Rasiah (PR-PKR)    66,268    58.8%   Pakas Rao Applanaidoo (BN-MIC)    39,549    35.1%   26,719    Sivarasa K. Rasiah (PR-PKR)    128,543   48%   38%     13%    0%   0%   0%   112,618     87.6%   1,669   1.3%
+;Mohamad Ismail (BERJASA)    4,454   4.0%
+;Nazaruddin Mohamed Ferdoos (IND)   460     0.4%
+;Edros Abdullah (IND)    218     0.2%
+P108    Shah Alam    Khalid Samad (PR-PAS)    49,009    55.7%   Zulkifli Noordin (BN-UMNO)   38,070    43.3%   10,939    Khalid Samad (PR-PAS)    99,957    69%    15%     14%   0%    0%   0%   87,942      88.0%   863     0.9%
+P109    Kapar    G. Manivannan Gowindasamy (PR-PKR)    69,849    55.1%   Sakthivel Alagappan (BN-MIC)    46,059    36.4%   23,790    Manikavasagam Sundram (PR-PKR)    144,159    51%   34%     14%    0%    0%   0%    126,709     87.9%    2,379    1.7%
+;Mohd Pathan Hussin (BERJASA)   6,289   5.0%
+;Norhamzah Suratman (IND)   1,067   0.8%
+;Mohd Nazri Abdul Aziz (IND)   835     0.7%
+;Palaya Rengaiah (IND)   231    0.2%
+P110    Klang    Charles Anthony R. Santiago (PR-DAP)    53,719    63.9%   Teh Kim Poo (BN-MCA)    29,034    34.5%   24,685    Charles Anthony R. Santiago (PR-DAP)    97,073    32%   46%     20%    0%   0%   0%   84,095      86.6%   1,342   1.4%
+P111    Kota Raja   Siti Mariah Mahmud (PR-PAS)    59,106    63.9%   Murugesan Sinnandavar (BN-MIC)    29,711    32.1%   29,395    Siti Mariah Mahmud (PR-PAS)    105,909   44%   25%     29%   0%   0%   0%   92,563    87.4%   1,102   1.0%
+;Uthayakumar Ponnusamy (IND)   2,364   2.6%
+;Azman Idrus (IND)   280    0.3%
+P112    Kuala Langat    Abdullah Sani Abdul Hamid (PR-PKR)    40,983   52.2%   Sharuddin Omar (BN-UMNO)   35,625   45.4%   5,358   Abdullah Sani Abdul Hamid (PR-PKR)    88,474   52%    26%     17%    0%   0%   0%   78,551   88.8%   1,523   1.7%
+;Kottappan Suppaiah (IND)   426     0.5%
+P113    Sepang      Mohamed Hanipa Maidin (PR-PAS)    36,800    49.1%   Mohd Zin Mohamed (BN-UMNO)   35,658    47.6%   1,142    Mohd Zin Mohamed (BN-UMNO)   84,362    57%   22%     16%   0%   0%   0%   74,961    88.8%   1,226   1.4%
+;Suhaimi Mohd Ghazali (IND)   962   1.3%
+;Hanapiah Mohamad (IND)   315   0.4%
+
+# Federal Territory of Kuala Lumpur
+P092    Sabak Bernam     Mohd Fasiah Mohd Fakeh (BN-UMNO)   16,510    52.1%   Abdul Aziz Bari (PR-PKR)    14,620    46.1%   1,890   Abdul Rahman Bakri (BN-UMNO)   37,318    81%    13%     5%   0%   0%   0%     31,706    84.9%    576    1.5%
+P093    Sungai Besar    Noriah Kasnon (BN-UMNO)   18,695    49.6%   Mohamed Salleh M Husin (PR-PAS)    18,296    48.6%   399    Noriah Kasnon (BN-UMNO)   42,837    66%    31%    2%    0%   0%    0%    37,681   88.0%   690     1.6%
+P094    Hulu Selangor   Kamalanathan Panchanathan (BN-MIC)    37,403    49.9%   Khalid Jaafar (PR-PKR)    33,989    45.4%   3,414   Kamalanathan Panchanathan (BN-MIC)    85,697    56%     23%     18%    0%    0%    0%   74,947    87.4%   1,451   1.7%
+;Radzali Mokhtar (IND)   1,105   1.5%
+;Santhara Kumar (IND)   999     1.3%
+P095    Tanjong Karang     Noh Omar (BN-UMNO)   20,548    54.5%   Mohamad Rashdi Deraman (PR-PAS)    16,154    42.9%   4,394   Noh Omar (BN-UMNO)   42,333    72%     17%     10%    0%    0%   0%   37,676    89.0%    634     1.5%
+;Masrun Tamsi (IND)   340   0.9%
+P096    Kuala Selangor      Irmohizan Ibrahim (BN-UMNO)   27,500    49.6%    Dzulkefly Ahmad (PR-PAS)    27,040    48.7%    460      Dzulkefly Ahmad (PR-PAS)    62,298    64%    13%     22%    0%    0%    0%   55,474      89.0%   934     1.5%
+P097    Selayang    William Leong Jee Keen (PR-PKR)    52,343    56.7%   Donald Lim Siang Chai (BN-MCA)    34,385    37.2%   17,958    William Leong Jee Keen (PR-PKR)    105,895   45%   36%     17%    0%    0%   0%   92,315   87.2%   1,435   1.4%
+;Mohd Hazizi Ab. Rahman (BERJASA)   4,152   4.5%
+P098    Gombak  Mohamed Azmin Ali (PR-PKR)    54,827    51.4%   Rahman Ismail (BN-UMNO)   50,093    46.9%   4,734   Mohamed Azmin Ali (PR-PKR)    123,290   74%   13%     11%    0%   0%    0%   106,747     86.6%   1,353   1.1%
+;Said Nazar Abu Baker (IND)   474   0.4%
+P099    Ampang     Zuraida Kamarudin (PR-PKR)    41,969    58.8%   Rozaidah Talib (BN-UMNO)   28,691    40.2%   13,278  Zuraida Kamarudin (PR-PKR)    83,135    55%    34%    10%    0%   0%   0%   71,398    85.9%   738   0.9%
+P100    Pandan     Rafizi Ramli (PR-PKR)    48,183   65.9%   Lim Chin Yee (BN-MCA)    21,454   29.4%   26,729     Ong Tee Keat (BN-MCA)    83,857   44%    48%     7%    0%    0%   0%    73,075      87.1%   1,023   1.2%
+;Tan Yew Leng (IND)   2,415   3.3%
+P101    Hulu Langat     Che Rosli Che Mat (PR-PAS)    64,127    57.1%   Adzhaliza Mohd Nor (BN-UMNO)   46,860    41.7%   17,267   Che Rosli Che Mat (PR-PAS)    127,347   53%    34%     11%    0%    0%    0%   112,322     88.2%    1,335   1.0%
+P102    Serdang     Ong Kian Ming (PR-DAP)    79,238    67.1%   Yap Pian Hon (BN-MCA)    37,032    31.4%   42,206    Teo Nie Ching (PR-DAP)    133,139   39%   49%     11%    0%   0%   0%   118,048       88.7%   1,778   1.3%
+P103    Puchong     Gobind Singh Deo (PR-DAP)    62,938      66.7%   A. Kohilan Pillay (BN-Gerakan)    30,136    31.9%    32,802    Gobind Singh Deo (PR-DAP)    107,010     39%     44%     16%    0%    0%    0%   94,335    88.1%   1,261   1.2%
+P104    Kelana Jaya     Wong Chen (PR-PKR)    56,790    65.8%   Loh Seng Kok (BN-MCA)    27,963    32.4%   28,827    Loh Gwo Burne (PR-PKR)    101,236   38%   42%     18%    0%   0%   0%   86,287    85.2%   1,171   1.1%
+;Toh Sin Wah (IND)   363    0.4%
+P105    Petaling Jaya Selatan   Hee Loy Sian (PR-PKR)    41,062    63.0%   Sheah Kok Fah (BN-MCA)    21,846    33.5%   19,216    Hee Loy Sian (PR-PKR)    79,558    40%    42%    17%   0%    0%   0%   65,185   81.9%    830    1.0%
+;Ibrahim Khatib (IND)   1,447   2.2%
+P106    Petaling Jaya Utara     Tony Pua Kiam Wee (PR-DAP)    57,407    81.3%   Chew Hoong Ling (BN-MCA)    12,735    18.0%   44,672    Tony Pua Kiam Wee (PR-DAP)    85,401    14%   77%     7%   0%    0%    0%    70,614    82.7%    472   0.6%
+P107    Subang      Sivarasa K. Rasiah (PR-PKR)    66,268    58.8%   Pakas Rao Applanaidoo (BN-MIC)    39,549    35.1%    26,719    Sivarasa K. Rasiah (PR-PKR)    128,543   48%   38%     13%    0%   0%   0%    112,618     87.6%   1,669   1.3%
+;Mohamad Ismail (BERJASA)   4,454   4.0%
+;Nazaruddin Mohamed Ferdoos (IND)   460     0.4%
+;Edros Abdullah (IND)   218     0.2%
+P108    Shah Alam    Khalid Samad (PR-PAS)    49,009    55.7%   Zulkifli Noordin (BN-UMNO)    38,070    43.3%    10,939    Khalid Samad (PR-PAS)    99,957    69%    15%     14%    0%    0%   0%   87,942    88.0%    863   0.9%
+P109    Kapar   G. Manivannan Gowindasamy (PR-PKR)    69,849    55.1%   Sakthivel Alagappan (BN-MIC)    46,059    36.4%    23,790   Manikavasagam Sundram (PR-PKR)    144,159   51%   34%   14%   0%   0%   0%    126,709    87.9%   2,379   1.7%
+;Mohd Pathan Hussin (BERJASA)   6,289   5.0%
+;Norhamzah Suratman (IND)   1,067   0.8%
+;Mohd Nazri Abdul Aziz (IND)   835  0.7%
+;Palaya Rengaiah (IND)   231    0.2%
+P110    Klang   Charles Anthony R. Santiago (PR-DAP)    53,719   63.9%   Teh Kim Poo (BN-MCA)    29,034   34.5%   24,685    Charles Anthony R. Santiago (PR-DAP)    97,073   32%    46%     20%   0%    0%   0%    84,095   86.6%   1,342   1.4%
+P111    Kota Raja    Siti Mariah Mahmud (PR-PAS)    59,106    63.9%   Murugesan Sinnandavar (BN-MIC)    29,711    32.1%   29,395    Siti Mariah Mahmud (PR-PAS)    105,909   44%   25%     29%    0%    0%    0%    92,563   87.4%   1,102   1.0%
+;Uthayakumar Ponnusamy (IND)   2,364   2.6%
+;Azman Idrus (IND)   280    0.3%
+P112    Kuala Langat    Abdullah Sani Abdul Hamid (PR-PKR)    40,983    52.2%   Sharuddin Omar (BN-UMNO)   35,625    45.4%   5,358   Abdullah Sani Abdul Hamid (PR-PKR)    88,474     52%    26%   17%    0%   0%   0%   78,551    88.8%   1,523   1.7%
+;Kottappan Suppaiah (IND)   426   0.5%
+P113    Sepang  Mohamed Hanipa Maidin (PR-PAS)    36,800    49.1%   Mohd Zin Mohamed (BN-UMNO)   35,658    47.6%   1,142   Mohd Zin Mohamed (BN-UMNO)   84,362    57%    22%     16%    0%   0%   0%   74,961    88.8%   1,226   1.4%
+;Suhaimi Mohd Ghazali (IND)   962     1.3%
+;Hanapiah Mohamad (IND)   315    0.4%
+
+# Federal Territory of Putrajaya
+P125    Putrajaya   Tengku Adnan Tengku Mansor (BN-UMNO)    9,943     69.0%   Husam Musa (PR-PAS)    4,402     30.5%   5,541   Tengku Adnan Tengku Mansor (BN-UMNO)   15,791    94%    0%   3%    2%    0%    0%    14,418    91.3%    73    0.5%
+
+# Negeri Sembilan
+P126    Jelebu      Zainudin Ismail (BN-UMNO)   22,114    58.4%   Raj Munni Sabu (PR-PAS)    15,013    39.6%   7,101    Rais Yatim (BN-UMNO)   44,937    63%    26%    6%    0%   0%    0%   37,883    84.3%   756     1.7%
+P127    Jempol      Mohd Isa Abdul Samad (BN-UMNO)   31,124    56.9%   Wan Aishah Wan Ariffin (PR-PAS)    22,495    41.1%   8,629   Lilah Yassin (BN-UMNO)   65,213    60%     25%     13%    0%    0%    0%    54,701    83.9%   1,082   1.7%
+P128    Seremban    Loke Siew Fook (PR-DAP)    45,628    52.2%    Yeow Chai Tham (BN-MCA)    33,075    37.9%   12,553    John Fernandez (IND)    102,305     44%     41%     14%    0%   0%   0%     87,359      85.4%   1,486   1.5%
+;Abdul Halim Abdullah (IND)    6,866    7.9%
+;John Fernandez (IND)    221    0.3%
+;Bujang Abu (IND)    83    0.1%
+P129    Kuala Pilah     Hasan Malek (BN-UMNO)   24,507    61.0%   Mohd Nazree Mohd Yunus (PR-PKR)    14,846    37.0%   9,661   Hasan Malek (BN-UMNO)   47,671    76%   17%     5%    0%   0%   0%    40,147    84.2%    794    1.7%
+P130    Rasah     Teo Kok Seong (PR-DAP)    49,272    65.1%   Teo Eng Kian (BN-MCA)    25,171    33.3%   24,101    Loke Siew Fook (PR-DAP)    88,403    28%    48%    22%    0%    0%   0%    75,651    85.6%   1,208   1.4%
+P131    Rembau     Khairy Jamaluddin (BN-UMNO)   43,053    62.1%   Radzali A. Ghani (PR-PKR)    24,696    35.6%   18,357    Khairy Jamaluddin (BN-UMNO)   79,661    70%     12%    16%   0%   0%   0%    69,291    87.0%   1,217   1.5%
+;Abdul Aziz Hassan (IND)    325     0.5%
+P132    Telok Kemang    Kamarul Bahrin Abbas (PR-PKR)    29,848    49.9%   Mogan Velayatham (BN-MIC)    28,269    47.2%   1,579   Kamarul Bahrin Abbas (PR-PKR)    70,524    42%    34%    21%    0%   0%   0%   59,855   84.9%   1,344   1.9%
+;Kamarudin Kumaravel Abdullah (IND)    394    0.7%
+P133    Tampin      Shaziman Abu Mansor (BN-UMNO)    29,390    60.4%    Abdul Razakek Abdul Rahim (PR-PAS)    18,228    37.5%   11,162      Shaziman Abu Mansor (BN-UMNO)    57,268     61%     24%     13%    0%    0%    0%    48,660      85.0%    1,042   1.8%
+
+
+# Malacca
+P134    Masjid Tanah    Mas Ermieyati Samsudin (BN-UMNO)   27,688    69.7%   Mohd Nasaie Ismail (PR-PAS)    11,488    28.9%   16,200    Abu Seman Yusop (BN-UMNO)   45,952    82%   13%     4%    0%    0%   0%    39,742     86.5%    566     1.2%
+P135    Alor Gajah      Koh Nai Kwong (BN-MCA)    32,594    59.2%   Damian Yeo Shin Li (PR-DAP)    20,997    38.2%   11,597    Fong Chan Onn (BN-MCA)    63,591    59%    28%     13%    0%   0%   0%    55,028       86.5%   1,437   2.2%
+P136    Tangga Batu     Abu Bakar Mohamad Diah (BN-UMNO)   39,468    61.4%   Rahim Ali (PR-PKR)    23,835    37.1%   15,633    Idris Haron (BN-UMNO)   73,282    68%   25%    0%   4%    0%   0%   64,288      87.7%   985     1.3%
+P137    Bukit Katil     Shamsul Iskandar Md. Akin (PR-PKR)    46,357    52.6%    Mohd Ali Rustam (BN-UMNO)   40,624    46.1%    5,733    Md Sirat Abu (BN-UMNO)   99,438    53%    41%    6%    0%   0%   0%   88,083     88.4%   1,102   1.1%
+P138    Kota Melaka     Sim Tong Him (PR-DAP)    49,521    62.3%   Yee Kok Wah (BN-MCA)    28,775    36.2%    20,746    Sim Tong Him (PR-DAP)    92,322    36%   59%     4%    0%    0%    0%   79,464    86.1%   1,168   1.3%
+P139    Jasin     Ahmad Hamzah (BN-UMNO)   33,736    59.5%   Rahmat Yusof (PR-PKR)    21,973    38.7%   11,763    Ahmad Hamzah (BN-UMNO)   64,455    71%   18%     10%    0%    0%   0%    56,710      88.8%   1,001   1.6%
+
+# Johor
+P140    Segamat     Subramaniam Sathasivam (BN-MIC)    20,037    50.3%   Chua Jui Meng (PR-PKR)    18,820    47.3%   1,217   Subramaniam Sathasivam (BN-MIC)    47,009    44%    46%   10%    0%   0%   0%   39,807   84.7%   950   2.0%
+P141    Sekijang    Anuar Abd. Manap (BN-UMNO)   19,934    53.2%   Julailey Jemadi (PR-PKR)    16,927    45.2%   3,007   Baharum Mohamed (BN-UMNO)   43,066    56%     39%     5%    0%   0%    0%    37,448   87.0%    587     1.4%
+P142    Labis   Chua Tee Yong (BN-MCA)    15,821   49.5%   Ramakrishnan Suppiah (PR-DAP)    15,468   48.4%   353    Chua Tee Yong (BN-MCA)    37,714   36%    47%    15%    0%   0%   0%    31,978    84.8%   689     1.8%
+P143    Pagoh    Muhyiddin Yassin (BN-UMNO)   26,274    64.8%   Mohamad Rozali Jamil (PR-PAS)    13,432    33.1%   12,842    Muhyiddin Yassin (BN-UMNO)   46,793    64%   31%     4%    0%   0%    0%    40,522      86.6%    816     1.7%
+P144    Ledang    Hamim Samuri (BN-UMNO)   30,619    50.7%   Hassan Abdul Karim (PR-PKR)    28,652    47.5%   1,967   Hamim Samuri (BN-UMNO)   69,316    53%    41%    5%   0%   0%   0%    60,348      87.1%   1,077   1.6%
+P145    Bakri    Er Teck Hwa (PR-DAP)    31,118    53.4%   Lee Ching Yong (BN-MCA)    26,051    44.7%   5,067   Er Teck Hwa (PR-DAP)    67,202    44%    53%    2%    0%    0%   0%   58,270    86.7%   1,101   1.6%
+P146    Muar    Razali Ibrahim (BN-UMNO)   20,867    51.0%   Nor Hizwan Ahmad (PR-PKR)    19,221    47.0%   1,646   Razali Ibrahim (BN-UMNO)   48,208    62%   35%   1%     0%    0%   0%   40,892    84.8%   804    1.7%
+P147    Parit Sulong    Noraini Ahmad (BN-UMNO)   30,258    60.9%   Khairuddin A Rahim (PR-PAS)    18,505    37.2%   11,753    Noraini Ahmad (BN-UMNO)   56,896    72%       23%    0%    5%    0%   0%   49,715    87.4%   952    1.7%
+P148    Ayer Hitam      Wee Ka Siong (BN-MCA)    22,045    58.4%   Hu Pang Chaw (PR-PAS)    14,735    39.0%   7,310   Wee Ka Siong (BN-MCA)    42,913    56%   38%     4%    0%    0%   0%   37,747     88.0%   967     2.3%
+P149    Sri Gading    Aziz Kaprawi (BN-UMNO)   22,453    56.4%   Mohd Khuzzan Abu Bakar (PR-PKR)    16,692    41.9%   5,761   Mohamad Aziz (BN-UMNO)   44,816    63%    34%   0%   2%   0%   0%    39,818     88.8%   673     1.5%
+P150    Batu Pahat      Mohd Idris Jusi (PR-PKR)    38,563    50.1%   Mohd Puad Zarkashi (BN-UMNO)   37,039    48.1%   1,524   Mohd Puad Zarkashi (BN-UMNO)   88,272    52%   46%    0%   2%    0%   0%   77,047   87.3%   1,445   1.6%
+P151    Simpang Renggam     Liang Teck Meng (BN-Gerakan)    19,754   57.0%   Suhaizan Kaiat (PR-PAS)    14,048   40.5%   5,706   Liang Teck Meng (BN-Gerakan)    40,143    57%    33%     9%    0%   0%   0%     34,670      86.4%   868     2.2%
+P152    Kluang      Liew Chin Tong (PR-DAP)    40,574    54.0%   Hou Kok Chung (BN-MCA)    33,215    44.2%   7,359   Hou Kok Chung (BN-MCA)    86,732    39%     49%     10%    0%    0%   0%   75,081    86.6%   1,292   1.5%
+P153    Sembrong    Hishammuddin Hussein (BN-UMNO)   22,841    63.7%   Onn Abu Bakar (PR-PKR)    12,210    34.0%   10,631  Hishammuddin Hussein (BN-UMNO)   41,588    58%       31%     9%    0%    0%   0%   35,860      86.2%   809     1.9%
+P154    Mersing     Abdul Latiff Ahmad (BN-UMNO)   26,184    70.2%   Roslan Nikmat (PR-PAS)    10,437    28.0%   15,747    Abdul Latiff Ahmad (BN-UMNO)   44,497    79%   16%   0%   5%   0%   0%    37,299      83.8%       678     1.5%
+P155    Tenggara    Halimah Mohamed Sadique (BN-UMNO)   25,698    73.7%   Muhamad Said Jonit (PR-PAS)    8,502     24.4%   17,196    Halimah Mohamed Sadique (BN-UMNO)   39,694    72%    18%   7%   0%   0%   0%    34,876    87.9%   676   1.7%
+P156    Kota Tinggi     Noor Ehsanuddin Mohd Harun Narrashid (BN-UMNO)   30,373      82.4%   Onn Jaafar (PR-PAS)    5,799       15.7%   24,574      Syed Hamid Albar (BN-UMNO)   41,894      86%     11%     2%    0%   0%   0%    36,868      88.0%   696     1.7%
+P157    Pengerang       Azalina Othman Said (BN-UMNO)   26,992    81.9%   Tengku Intan Tengku Abdul Hamid (PR-PKR)    4,484     13.6%   22,508    Azalina Othman Said (BN-UMNO)   37,999    88%   10%   0%   2%   0%   0%    32,969   86.8%   698     1.8%
+;Mohd Azaman Johari (IND)   795     2.4%
+P158    Tebrau      Khoo Soo Seang (BN-MCA)    39,985    50.1%   Choong Shiau Yoon (PR-PKR)    38,218    47.9%   1,767   Teng Boon Soon (BN-MCA)    90,482    47%   38%     13%   0%   0%   0%    79,754    88.1%   1,551   1.7%
+P159    Pasir Gudang    Normala Abdul Samad (BN-UMNO)   43,834      49.6%   Ahmad Faidhi Saidi (PR-PKR)    42,899      48.5%   935     Mohamed Khaled Nordin (BN-UMNO)   101,041     47%     38%     11%    0%    0%   0%   88,437    86.0%   1,704   1.9%
+P160    Johor Bahru     Shahrir Abdul Samad (BN-UMNO)   44,509    55.8%   Md Hashim Hussein (PR-PKR)    34,014    42.6%   10,495    Shahrir Abdul Samad (BN-UMNO)   96,321    51%   43%     5%    0%    0%   0%    79,807    82.8%   1,284   1.3%
+P161    Pulai   Nur Jazlan Mohamed (BN-UMNO)   43,751    51.0%   Salahuddin Ayub (PR-PAS)    40,525    47.3%   3,226    Nur Jazlan Mohamed (BN-UMNO)   100,490   47%     41%     10%    0%   0%   0%   85,763    85.3%   1,487   1.5%
+P162    Gelang Patah    Lim Kit Siang (PR-DAP)    54,284      57.2%   Abdul Ghani Othman (BN-UMNO)   39,522      41.7%    14,762   Tan Ah Eng (BN-MCA)    106,726     34%     52%     12%    0%    0%    0%    94,865    88.9%   1,059   1.0%
+P163    Kulai   Teo Nie Ching (PR-DAP)    43,338    57.9%   Tay Chin Hein (BN-MCA)    29,888    39.9%   13,450    Ong Ka Ting (BN-MCA)    83,991    33%   56%   10%   0%   0%   0%    74,896   89.2%   1,432   1.7%
+;Surendiran Kuppayah (IND)   238    0.3%
+P164    Pontian     Ahmad Maslan (BN-UMNO)   27,804    65.0%   Haniff @ Ghazali Hosman (PR-PKR)    14,077    32.9%   13,727  Ahmad Maslan (BN-UMNO)   49,633    69%       28%    0%   3%    0%   0%   42,752    86.1%   871   1.8%
+P165    Tanjong Piai    Wee Jeck Seng (BN-MCA)    25,038    55.0%   Mahdzir Ibrahim (PR-DAP)    19,581    43.0%   5,457   Wee Jeck Seng (BN-MCA)    51,875    51%     47%    0%    2%    0%    0%   45,537    87.8%   918     1.8%
+
+# Federal Territory of Labuan
+P166    Labuan    Rozman Isli (BN-UMNO)   12,694    65.6%   Ibrahim Menudin (PR-PKR)    6,069   31.4%   6,625   Yussof Mahal (BN-UMNO)   24,474   0%   23%    0%   0%   60%   14%    19,356   79.1%    207   0.8%
+
+# Sabah
+P167    Kudat   Abdul Rahim Bakri (BN-UMNO)   21,883   60.2%   Rahimah Majid (PR-PKR)    9,507   26.2%   12,376  Abdul Rahim Bakri (BN-UMNO)   47,249   0%   11%    0%   0%   47%   40%     36,355  76.9%   919     1.9%
+;Jutirim Galibai Galabi (STAR)   3083   8.5%
+;Mojurip Diyun (SAPP)   963   2.6% 
+P168    Kota Marudu     Maximus Johnity Ongkili (BN-PBS)    15,168   45.9%   Maijol Mahap (PR-PKR)    14,326   43.3%   842    Maximus Johnity Ongkili (BN-PBS)    42,197      0%    2%    0%   0%   26%     71%     33,077   78.4%   911     2.2%
+;Majamis Timbong (STAR)  2,228   6.7%
+;Yuntau Kolod (SAPP)   444    11.3%
+P169    Kota Belud    Abdul Rahman Dahlan (BN-UMNO)   21,768  50.1%   Isnaraissah Munirah Majili (PR-PKR)    16,673   38.4%   5,095   Abdul Rahman Dahlan (BN-UMNO)   51,467    0%   2%   0%    0%    59%   39%   43,423    84.4%   1,109   2.2%
+;Jalumin Bayogoh (STAR)   2,709   6.2%
+;Lamsil Amidsor (IND)   979   2.3%
+;Kanul Gindol (IND)   185    0.4%
+P170    Tuaran     Madius Tangau (BN-UPKO)   20,685   50.8%   Wilfred Bumburing (PR-PKR)    15,495   38.0%   5,190   Wilfred Bumburing (IND)   48,276    0%    6%    0%   0%    44%   50%   40,748   84.4%   795   1.6%
+;Erveana Ansari Ali (IND)   2,264   5.6%
+;Samin Dulin (STAR)   1,509   3.7%
+P171    Sepanggar   Jumat Idris (BN-UMNO)   22,845      52.6%   Jeffrey Kumin (PR-DAP)    13,403    30.9%   9,442   Eric Majimbun (SAPP)    53,374   0%   19%    0%   0%    52%    26%     43,416     81.3%   1,167   2.2%
+;Chin Hon Kiong (SAPP)   4,070   9.4%
+;Daniel John Jambun (STAR)  1,931   4.4%
+P172    Kota Kinabalu   Jimmy Wong Sze Phin (PR-DAP)    28,516      72.2%   Chin Tek Ming (BN-PBS)    9,557   24.2%   18,959  Hiew King Chew (PR-DAP)    50,516    0%   70%   0%   0%   15%  13%    39,488    78.2%   506     1.0%
+;Liew Hock Leong (STAR)  909    2.3%
+P173    Putatan     Marcus Mojigoh (BN-UPKO)   17,465   58.7%   Lee Han Kyun (PR-DAP)    7,958   26.7%   9,507   Marcus Mojigoh (BN-UPKO)   37,490    0%   19%    0%   0%   63%     15%     29,760      79.4%   665     1.8%
+;Awang Ahmad Sah (STAR)     2,604   8.8%
+;Duli Mari (SAPP)   1,068   3.6%
+P174    Penampang   Ignatius Dorell Leiking (PR-PKR)    22,598      61.8%   Bernard Giluk Dompok (BN-UPKO)   12,382     33.95   10,216      Bernard Giluk Dompok (BN-UPKO)   44,323    0%   32%   0%    0%    16%    50%     36,553      82.5%   454     1.0%
+;Melania Annol (STAR)  1,119   3.1%
+P175    Papar   Rosnah Abdul Rashid Shirlin (BN-UMNO)   21,196      63.9%   Mohammad Yahya Lampong (PR-PKR)    10,661   32.1%   10,535   Rosnah Abdul Rashid Shirlin (BN-UMNO)   38,771   0%   9%    0%   0%   60%     30%     33,194      85.6%   499     1.3%
+;Balon Mujim (STAR)     838    2.5%
+P176    Kimanis    Anifah Aman (BN-UMNO)   13,754      59.5%   Jaafar Ismail (PR-PKR)    8,031   34.7%   5,723   Anifah Aman (BN-UMNO)    26,628      0%    4%    0%    0%   60%     34%     23,128    86.9%   453   1.7%
+;Jamil William Core (SAPP)      650     2.8%
+;Lusin Balangon (STAR)      240     1.0%
+P177    Beaufort    Azizah Mohd Dun (BN-UMNO)   12,827      49.4%   Lajim Ukin (PR-PKR)    12,155  46.8%   672    Lajim Ukin (IND)   30,097      0%     8%    0%   0%   61%     30%     25,949      86.2%   559     1.9%
+;Guan Dee Koh Hoi (STAR)  409   1.6%
+P178    Sipitang    Sapawi Ahmad (BN-UMNO)   16,377  67.3%   Ramle Dua (PR-PKR)    6,908   28.4%   9,469   Sapawi Ahmad (BN-UMNO)   29,177      0%   4%    0%    0%    58%     36%     24,329      83.4%   539     1.8%
+;Kamis Daming (SAPP)     505     2.1%
+P179    Ranau   Ewon Ebin (BN-UPKO)   15,434   49.2%   Jonathan Yasin (PR-PKR)    11,823    37.7%   3,611   Siringan Gubat (BN-UPKO)   39,053   0%   2%   0%    0%  11%   87%     31,396      80.4%   666     1.7%
+;Ulianah Situn (STAR)  2,559   8.2%
+;Yazid Sahjinan (IND)   914     2.9%
+P180    Keningau    Joseph Pairin Kitingan (BN-PBS)    15,818   43.8%   Geoffrey Gapari Kitingan (STAR)   11,900   33.0%   3,918   Joseph Pairin Kitingan (BN-PBS)    43,691   0%   10%   0%   0%   18%   70%    36,098    82.6%   555   1.3%
+;Stephen Sandor (PR-PKR)    7,825   21.7%
+P181    Tenom     Raime Unggi (BN-UMNO)   9,771   46.7%    Masdin Tumas (PR-PKR)    5,885   28.1%   3,886     Raime Unggi (BN-UMNO)   25,304    0%   12%   0%   0%   21%    66%     20,926    82.7%     632     2.5%
+;Hasmin Abdullah (STAR)     2,449   11.7%
+;Jaineh Juaya (SAPP)  1,766   8.4%
+;Mutang Dawat (KITA)  423   2.0%
+P182    Pensiangan    Joseph Kurup (BN-PBRS)   9,467   44.3%   Richard Sakian Gunting (PR-PKR)    7,723   36.1%   1,744   Joseph Kurup (BN-PBRS)   26,194    0%   1%    0%   0%    12%   86%   21,379   81.6%   483   1.8%
+;Martin Tomy (STAR)   3,554   16.6%
+;Fatimah Agitor (IND)   152   0.7%
+P183    Beluran     Ronald Kiandee (BN-UMNO)   13,174   69.7%   James Miki (PR-PKR)    3,186   16.8%   9,988   Ronald Kiandee (BN-UMNO)   24,688   0%   0%   0%   3%   40%  56%     18,914  76.6%   552     2.2%
+;Raimon Lanjat (STAR)    1,460   7.7%
+;Datu Kamaruddin Datu Mustapha (IND)   542   2.9%
+P184    Libaran     Juslie Ajirol (BN-UMNO)   19,584   61.2%   Mohd Serman Hassnar (PR-PKR)    7,998   25.0%   11,586    Juslie Ajirol (BN-UMNO)   39,772   0%   21%   0%   0%   57%   15%   32,017  80.5%   714   1.8%
+;Sahar Saka (IND)   3,219   10.1%
+;Rosnah Unsari (STAR)    502   1.6%
+P185    Batu Sapi   Linda Tsen Thau Lin (BN-PBS)    13,085   56.0%   Hamza A Abdullah (PR-PAS)    9,287   39.8%   3,798   Linda Tsen Thau Lin (BN-PBS)    30,199    0%   33%   0%   0%   51%   8%      23,356      77.3%   574     1.9%
+;Saiful Bahari Rashada Ahmad (STAR)   410    1.8%
+P186    Sandakan    Wong Tien Fatt (PR-DAP)    14,226   51.0%   Liew Vui Keong (BN-LDP)    13,138   47.1%   1,088   Liew Vui Keong (BN-LDP)    37,058    0%   53%   0%   0%   34%      8%      27,889      75.3%   525   1.4%
+P187    Kinabatangan    Bung Moktar Radin (BN-UMNO)    13,377   67.0%   Abdullah Abdul Sani (PR-PKR)    3,646   18.3%   9,731   Bung Moktar Radin (BN-UMNO)   24,748    0%   0%   0%    6%    42%   52%   19,960      80.7%   654     2.6%
+;Yambuya Parantis (STAR)  1,153   5.8%
+;Ali Latip Taha (IND)   1,130   5.7%
+P188    Silam   Nasrun Mansur (BN-UMNO)   23,058    58.2%   Badrulamin Bahron (PR-PKR)    9,671   24.4%   13,387    Salleh Kalbi (BN-UMNO)   51,662   0%   13%   0%   0%   64%    13%     39,606      76.7%   1,077   2.1%
+;Dumi Pg Masdal (IND)   4,959   12.5%
+;Apas Saking (STAR)  841    2.1%
+P189    Semporna    Mohd Shafie Apdal (BN-UMNO)   25,559   81.1%   Zamree Abdul Habi (PR-PKR)    4,654   14.8%   20,905   Mohd Shafie Apdal (BN-UMNO)   41,549   0%   2%   0%   2%    96%   0%   31,523    75.9%    985     2.4%
+;Badaruddin Mustapha (IND)   325     1.0%
+P190    Tawau   Yap Kain Ching (BN-PBS)    21,331   53.8%   Kong Hong Min (PR-PKR)    16,352    41.2%   4,979   Chua Soon Bui (SAPP)    51,538   0%   38%   0%   8%      50%   0%   39,658      76.9%   789     1.5%
+;Chua Soon Bui (SAPP)  633      1.6%
+;Ahmad Awang (IND)   553    1.4%
+P191    Kalabakan   Abdul Ghapur Salleh (BN-UMNO)   23,125      64.0%   Usman Madeaming (PR-PAS)    8,904   24.6%   14,221  Abdul Ghapur Salleh (BN-UMNO)   46,793    0%   11%   0%   12%    70%   0%    36,132    77.2%   1,027   2.2%
+;Mohd Manuke (IND)   1,313   3.6%
+;Siamsir Borhan (IND)   891     2.5%
+;Malvine Reyes (STAR)  603  1.7%
+;Freddie Japat Simbol (IND)   137   0.4%
+;Yahya Zainal (IND)   132   0.4%
+
+# Sarawak
+P192    Mas Gading      Nogeh Gumbek (BN-SPDP)   8,265   40.6%   Tiki Lafe (IND)   6,109   30.0%   2,156   Tiki Lafe (BN-SPDP)   25,771     0%    19%    0%    0%   13%     68%     20,353    79.0%   224    0.9%
+;Mordi Bimol (PR-DAP)    5,293   26.0%
+;Patrick Anek Uren (STAR)    462    2.3%
+P193    Santubong       Wan Junaidi Tuanku Jaafar (BN-PBB)    24,655  84.4%   Zulrusdi Mohamad Hoi (PR-PKR)    3,719   12.7%   20,936     Wan Junaidi Tuanku Jaafar (BN-PBB)    37,017    0%    8%    0%    0%     83%    9%    29,207    78.9%   394    1.1%
+;Affendi Jeman (IND)    233     0.8%
+;Mura Kadir (STAR)    206    0.7%
+P194    Petra Jaya      Fadillah Yusof (BN-PBB)    29,559   77.8%   Ahmad Nazib Johari (PR-PKR)    8,116    21.4%   21,443    Fadillah Yusof (BN-PBB)    49,750   0%   12%    0%   0%   79%   8%    37,996   76.4%    321     0.6%
+P195    Bandar Kuching      Chong Chieng Jen (PR-DAP)    30,133    73.8%   Tan Kai (BN-SUPP)   10,491    25.7%   19,642    Chong Chieng Jen (PR-DAP)    53,336    0%   91%    0%    0%    5%    3%    40,825    76.5%   201   0.4%
+P196    Stampin     Julian Tan Kok Ping (PR-DAP)    41,663   63.7%   Yong Khoon Seng (BN-SUPP)   22,993   35.2%   18,670   Yong Khoon Seng (BN-SUPP)   84,732    0%    73%    0%   0%    13%     13%     65,383   77.2%    488   0.6%
+;Soo Lina (STAR)    239     0.4%
+P197    Kota Samarahan      Rubiah Wang (BN-PBB)    24,202   76.8%   Abang Ahmad Kerdee Abang Masagus (PR-PAS)    6,801    21.6%   17,401     Sulaiman Abdul Rahman Taib (BN-PBB)    38,158    0%   12%    0%   0%   65%     22%     31,531      82.6%     528     1.4%
+P198    Mambong     James Dawos Mamit (BN-PBB)    20,461    62.8%   Willie Mongin (PR-PKR)    10,740    33.0%   9,721    James Dawos Mamit (BN-PBB)    42,344    0%   27%    0%    0%   12%    61%     32,579    76.9%    674    1.6%
+;Dripin Sakoi (STAR)    704     2.2%
+P199    Serian      Richard Riot Jaem (BN-SUPP)   19,494    73.5%   Edward Andrew Luwak (PR-DAP)    6,343     23.9%   13,151    Richard Riot Jaem (BN-SUPP)   33,713    0%    11%    0%   0%   15%    75%     26,523    78.7%   296    0.9%
+;Johnny Anak Aput (STAR)    390     1.5%
+P200    Batang Sadong     Nancy Shukri (BN-PBB)    13,277   85.5%   Mohamad Jolhi (PR-PAS)    2,017    13.0%   11,260     Nancy Shukri (BN-PBB)    19,839    0%   6%    0%   0%   74%   21%    15,521      78.2%   227     1.1%
+P201    Batang Lupar    Rohani Abdul Karim (BN-PBB)    15,625    75.4%   Abang Zulkifli Abang Engkeh (PR-PKR)    4,661     22.5%   10,964    Rohani Abdul Karim (BN-PBB)    27,360    0%   3%    0%   0%   77%   20%    20,711    75.7%   425   1.6%
+P202    Sri Aman    Masir Kujat (BN-PRS)    12,168    54.4%   Nicholas Mujah Ason (PR-PKR)    5,618     25.1%   6,550    Masir Kujat (BN-PRS)    29,789    0%   17%    0%   0%   20%     63%     22,353    75.0%   224   0.8%
+;Donald Lawan (IND)   3,867   17.35
+;Wilfred Stephen (SWP)   476    2.1%
+P203    Lubok Antu      William Nyallau Badak (BN-PRS)    8,278   54.7%   Larry Soon @ Larry Sng Wei Shien (SWP)   4,187   27.7%    4,091   William Nyallau Badak (BN-PRS)    19,303   0%   8%   0%   0%    18%   74%     15,138      78.4%   143     0.7%
+;Nicholas Bawin Anggat (PR-PKR)    2,530   16.7%
+P204    Betong      Douglas Uggah Embas (BN-PBB)    15,476      75.9%   Cecilia Siti Una @ Sittie Endek (PR-PKR)    4,589       22.5%   10,887      Douglas Uggah Embas (BN-PBB)    26,322   0%   7%    0%   0%   50%   43%     20,380   77.4%   315    1.2%
+P205    Saratok     William Ikom (BN-SPDP)   11,600   52.6%   Ali Biju (PR-PKR)    9,519    43.2%   2,081   Jelaing Mersat (BN-SPDP)   27,562    0%      7%    0%   0%   44%   49%     22,058    80.0%     258     0.9%
+;Rosli Bin Lek @ Abg Roselie bin Abg Paleng (IND)       681     3.1%
+P206    Tanjong Manis    Norah Abdul Rahman (BN-PBB)    12,535   87.4%   Jurina Mut (PR-PAS)    1,571    11.0%   10,964     Norah Abdul Rahman (BN-PBB)    19,215   0%   5%    0%   0%   74%   20%     14,344    74.7%   238   1.2%
+P207    Igan    Wahab Dolah (BN-PBB)    11,896    85.8%   Ajiji Fauzan (PR-PAS)    1,747     12.6%   10,149    Wahab Dolah (BN-PBB)    17,771    0%    4%   0%   0%    81%     15%     13,865    78.0%   222     1.2%
+P208    Sarikei     Wong Ling Biu (PR-DAP)    14,263    50.4%   Ding Kuong Hiing (BN-SUPP)   13,758    48.6%   505   Ding Kuong Hiing (BN-SUPP)   36,550    0%   66%    0%    0%   11%     23%     28,298      77.4%   277     0.8%
+P209    Julau   Joseph Salang Gandum (BN-PRS)    9,891   58.3%   Wong Judat (SWP)   3,936    23.2%   5,955   Joseph Salang Gandum (BN-PRS)    22,522   0%   5%    0%   0%   12%   83%     16,957    75.3%   278    1.2%
+;Wong Hong Yu (PR-PKR)    2,852   16.8%
+P210    Kanowit     Aaron Ago Dagang (BN-PRS)    8,046   58.5%   Thomas Laja Besi (PR-PKR)    5,004   36.4%   3,042   Aaron Ago Dagang (BN-PRS)    19,433    0%   12%    0%   0%   16%     72%     13,743    70.7%   276    1.4%
+;Ellison Ludan Anak Mu (SWP)    417   3.0%
+P211    Lanang      Alice Lau Kiong Yieng (PR-DAP)    26,613   59.3%   Tiong Thai King (BN-SUPP)   17,983   40.1%   8,630   Tiong Thai King (BN-SUPP)   57,143   0%   72%    0%   0%  10%   18%     44,900   78.6%   304    0.5%
+P212    Sibu    Oscar Ling Chai Yew (PR-DAP)    26,808    52.1%   Lau Lee Ming (BN-SUPP)   23,967    46.6%   2,841   Wong Ho Leng (PR-DAP)    64,601   0%   65%    0%   0%   20%      15%     51,474   79.7%   496    0.8%
+;Narawi Haron (IND)     203    0.4%
+P213    Mukah   Leo Michael Toyad (BN-PBB)    14,983    75.5%   Hai Bin Merawin @ Bonaventure (PR-DAP)    2,219     11.2%   12,764    Leo Michael Toyad (BN-PBB)    26,477    0%   10%   0%   0%   75%      16%     19,838      74.9%   417     1.6%
+;Sylvester Ajah Subah @ Ajah Bin Subah (IND)     2,219   11.2%
+P214    Selangau    Joseph Entulu Belaun (BN-PRS)    12,040    58.1%   Sng Chee Hua (SWP)   4,485   21.6%   7,555   Joseph Entulu Belaun (BN-PRS)    25,461   0%   4%    0%   0%   13%   83%     20,725      81.4%   309     1.2%
+;Joshua Anak Jabing @ Joshua Jabeng (PR-PKR)    3,891   18.8%
+P215    Kapit   Alexander Nanta Linggi (BN-PBB)    13,446    77.1%   Ramli Malaka (PR-DAP)    3,715     21.3%   9,731   Alexander Nanta Linggi (BN-PBB)    26,195   0%   10%   0%   0%   22%   68%     17,432      66.5%   271     1.0%
+P216    Hulu Rajang     Ugak Kumbong (BN-PRS)    9,117   61.8%   Abun Sui Anyit (PR-PKR)    3,283   22.3%   5,834   Billy Abit Joo (BN-PRS)    21,686    0%   0%   0%    2%    20%     77%     14,742    68.0%   213   1.0%
+;George Anak Lagong (SWP)    2,129   14.4%
+P217    Bintulu     Tiong King Sing (BN-SPDP)   26,458    57.6%   John Brian Anthony Anak Jeremy Guang (PR-DAP)    19,025    41.4%   7,433   Tiong King Sing (BN-SPDP)   59,893    0%   28%    0%   0%   29%     44%     45,941      76.7%   458     0.8%
+P218    Sibuti      Ahmad Lai Bujang (BN-PBB)    13,348    63.8%   Muhammad Zaid Tandang (PR-PAS)    7,282     34.8%   6,066   Ahmad Lai Bujang (BN-PBB)    28,351    0%    22%    0%   0%   33%    44%     20,918      73.8%   288     1.0%
+P219    Miri    Michael Teo Yu Keng (PR-PKR)    26,909    51.0%   Sebastian Ting Chiew Yew (BN-SUPP)   24,917    47.2%   1,992   Peter Chin Fah Kui (BN-SUPP)   71,170   0%   57%    0%   0%   26%    17%    52,762    74.1%    630     0.9%
+;Chong Kon Fatt (STAR)      306     0.6%
+P220    Baram   Anyi Ngau (BN-SPDP)   9,182   48.9%   Roland Engan (PR-PKR)    8,988   47.9%   194     Jacob Dungau Sagan (BN-SPDP)   29,385   0%   9%    0%   0%   21%   70%     18,775      63.9%   242     0.8%
+;Patrick Sibat Sujang (IND)   363   1.9%
+P221    Limbang     Hasbi Habibollah (BN-PBB)    12,999    72.8%   Baru Bian (PR-PKR)    4,698     26.3%   8,301   Hasbi Habibollah (BN-PBB)    24,278     0%    19%    0%   0%     45%     35%     17,859      73.6%   162     0.7%
+P222    Lawas    Henry Sum Agong (BN-PBB)    9,928   70.6%   Baru Langup (PR-DAP)    3,898   27.7%   6,030   Henry Sum Agong (BN-PBB)    18,845    0%   10%    0%   0%   43%     47%     14,072      74.7%   177     0.9%
+;Alirahman Kamseh (STAR)     69      0.5%

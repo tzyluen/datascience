@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MY GE13</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      #panel {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+      }
+
+      /*
+      Provide the following styles for both ID and class,
+      where ID represents an actual existing "panel" with
+      JS bound to its name, and the class is just non-map
+      content that may already have a different ID with
+      JS bound to its name.
+      */
+
+      #panel, .panel {
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+
+      #panel select, #panel input, .panel select, .panel input {
+        font-size: 11px;
+      }
+
+      #panel select, .panel select {
+        width: 100%;
+      }
+
+      #panel i, .panel i {
+        font-size: 10px;
+      }
+
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=visualization"></script>
+    <script src="js/sql.js"></script>
+    <script>
+
+    function loadBinaryFile(path, success) {
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", path, true);
+        xhr.responseType = 'arraybuffer';
+        xhr.onload = function(e) {
+            var data = new Uint8Array(this.response);
+            var arr = new Array();
+            for (var i = 0; i != data.length; ++i)
+                arr[i] = String.fromCharCode(data[i]);
+            success(arr.join(""));
+        };
+        xhr.send();
+    };
+
+    var db;
+    loadBinaryFile('./ge13.db', function(data) {
+        db = new SQL.Database(data);
+    });
+
+
+    var GE13Data = [];
+    var map, pointarray, heatmap;
+    function initialize() {
+        var mapOptions = {
+            zoom: 6,
+            center: new google.maps.LatLng(3.418592, 107.602086),
+            mapTypeId: google.maps.MapTypeId.HYBRID
+        }; // somewhere near Riau Islands; middle of Malaysia
+
+        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+        var pointArray = new google.maps.MVCArray(GE13Data);
+
+        heatmap = new google.maps.visualization.HeatmapLayer({
+            //data: pointArray
+        });
+
+        heatmap.setMap(map);
+    }
+
+
+    function toggleHeatmap() {
+        heatmap.setMap(heatmap.getMap() ? null : map);
+    }
+
+
+    function getSelectedRadioButton(name) {
+        var radios = document.getElementsByName(name);
+
+        for (var i = 0; i < radios.length; ++i) {
+            if (radios[i].checked) {
+                return radios[i].value;
+            }
+        }
+
+        return false;
+    }
+
+
+    function redrawHeatmap() {
+        var coalition = document.getElementById('slt_coalition').value;
+        var chkb_winner = document.getElementById('chkb_winner').checked;
+        var ethnicity_index = getSelectedRadioButton('rdb_ethnicity');
+        console.log(coalition);
+        console.log(chkb_winner);
+        console.log(ethnicity_index);
+        GE13Data = [];  //clear the array
+
+        var sql = "select candd.name, candd.party, candd.coalition, ctt.name, ctt.code, ctt.eligible_voters, ctt.malay_voters, ctt.chinese_voters, ctt.indian_voters, ctt.others_voters, ctt.latitude, ctt.longitude, r.winner, r.majority, r.votes from constituency as ctt left join result as r on (ctt.id = r.constituency_id) left join candidate as candd on (r.candidate_id = candd.id) WHERE candd.coalition = '" + coalition + "'";
+
+        if (chkb_winner) {
+            sql += " AND r.winner = 1";
+        }
+        sql += ";";
+        console.log(sql);
+
+        /**
+         * formula:
+         * default sum = votes
+         * if filter with 'ethnicity' then
+         *    `eligible_voters' * `ethnicity_voters' percentage, such that
+         *    `eligible_voters' * (`ethnicity_voter / 100')
+         */
+        var latitude, longitude, votes, candd_name, candd_party, ctt_eligible_voters, ctt_name;
+        var ctt_malay_voters, ctt_chinese_voters, ctt_indian_voters, ctt_others_voters;
+        var res = db.exec(sql);
+        for (var i = 0; i < res.length; ++i) {
+            for (var row in res[i]['values']) {
+                latitude = res[i]['values'][row][10];
+                longitude = res[i]['values'][row][11];
+                candd_name = res[i]['values'][row][0];
+                ctt_code = res[i]['values'][row][4];
+                ctt_eligible_voters = res[i]['values'][row][5];
+                ctt_name = res[i]['values'][row][3];
+                votes = res[i]['values'][row][14];
+                console.log(candd_name + '|' + ctt_code+ '|' + ctt_name + '|' + votes);
+
+                if (ethnicity_index) {
+                    voters_percentage = res[i]['values'][row][ethnicity_index];
+                    votes = ctt_eligible_voters * (voters_percentage / 100);
+                    votes = Math.round(votes);
+                    //console.log(ctt_eligible_voters + '|' + voters_percentage + '|' + votes);
+                }
+
+                GE13Data.push({location: new google.maps.LatLng(latitude, longitude), weight: votes});
+            }
+        }
+
+        heatmap.setData(GE13Data);
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+
+  <body>
+    <div id="panel">
+      <button onclick="toggleHeatmap()">Toggle Heatmap</button>
+      <select id="slt_coalition" name="slt_coalition" onchange="redrawHeatmap()">
+        <option value="BN">BN</option>
+        <option value="PR">PR</option>
+        <option value="IND">IND</option>
+        <option value="BERJASA">BERJASA</option>
+        <option value="MUPP">MUPP</option>
+        <option value="KITA">KITA</option>
+        <option value="STAR">STAR</option>
+        <option value="SAPP">SAPP</option>
+      </select>
+      <input type="checkbox" id="chkb_winner" name="chkb_winner" onchange="redrawHeatmap()">Winner only<br>
+      <input type="radio" name="rdb_ethnicity" onclick="redrawHeatmap()" value="6">Malays
+      <input type="radio" name="rdb_ethnicity" onclick="redrawHeatmap()" value="7">Chinese
+      <input type="radio" name="rdb_ethnicity" onclick="redrawHeatmap()" value="8">Indians
+      <input type="radio" name="rdb_ethnicity" onclick="redrawHeatmap()" value="9">Others
+
+    </div>
+    <div id="map-canvas"></div>
+    <div id="res"></div>
+  </body>
+</html>
